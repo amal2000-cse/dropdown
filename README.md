@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React Dropdown App
 
-Currently, two official plugins are available:
+This is a simple React application that demonstrates the usage of a dropdown component. The application is built using Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+to install - npm install
+
+to run - npm run dev
